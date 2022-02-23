@@ -15,6 +15,7 @@ public class CCuenta {
     private int numeroCuenta;
     private long dni;
     private Double saldoActual;
+    private String cliente;
 
     public CCuenta() {
     }
